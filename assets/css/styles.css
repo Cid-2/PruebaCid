@@ -67,13 +67,16 @@ header .lead {
     color:#F0F3F4;
 }
 .link1:hover{ /*al pasar*/
-    color:red;
-    font-size: 40px;
+    	display: inline-block;
+	color:#D0D3D4;
+    	transform: scale(1.2);
 
 }
 .link1:active{ /*al clicar*/
-    color:blue;
-    font-size: 30px
+    	display: inline-block;
+	color:#D0D3D4;
+	transform: scale(0.8);
+    
 }
 
 /*aqui cierro la modificacion de enlace del navbar*/
