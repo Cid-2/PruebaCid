@@ -75,7 +75,7 @@ header .lead {
 .link1:active{ /*al clicar*/
     	display: inline-block;
 	color:#D0D3D4;
-	transform: scale(0.8);
+	transform: scale(0.9);
     
 }
 
