@@ -60,21 +60,21 @@ header .lead {
 
 /*aqui se abre la modificacion de los enlaces del navbar*/
 .link1:link{ /*estatico*/
-    color:#F0F3F4;
+    color:#BDC3C7;
 }
 
 .link1:visited{ /*al clicar*/
-    color:#F0F3F4;
+    color:#BDC3C7;
 }
 .link1:hover{ /*al pasar*/
     	display: inline-block;
-	color:#D0D3D4;
+	color:#CACFD2;
     	transform: scale(1.2);
 
 }
 .link1:active{ /*al clicar*/
     	display: inline-block;
-	color:#D0D3D4;
+	color:#A6ACAF;
 	transform: scale(0.9);
     
 }
